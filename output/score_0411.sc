@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score coordinate_constraint dslf_fa13    fa_atr    fa_dun   fa_elec fa_intra_rep fa_intra_sol_xover4              fa_rep              fa_sol hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb lk_ball_wtd       omega     p_aa_pp pro_close rama_prepro         ref yhh_planarity description 
+SCORE:   -1229.049                11.573     0.000 -2721.057   484.072  -780.235        4.912              89.416             397.585            1630.629    -107.741     -91.803     -67.521    -199.527     -66.662      49.276     -86.428     3.818      52.430     168.055         0.158 lowest_energy_0411_0001
